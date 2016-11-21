@@ -1,0 +1,211 @@
+{
+  "classes":[
+    {
+      "nom":"ce2",
+      "prenom":"Hab",
+      "motpasse":12345,
+      "matieres":
+      [
+        {
+          "nom":"Français",
+          "image":"",
+          "quizz":
+          [
+            {
+              "question":"Combien de syllabe(s) y a-t-il dans le mot bille ?",
+              "choix":"1, 2, 3 ou 0",
+              "reponse":"2"
+            },
+            {
+              "question":" Ecris la bonne réponse: papa... parti à la maison",
+              "choix":"et, es, est ou à",
+              "reponse":"est"
+            },
+            {
+              "question":"Ecris la forme verbale qui convient. Il ... un bonhomme. (dessiner)",
+              "choix":"dessinent, dessine, deçine ou dessines",
+              "reponse":"dessine"
+            },
+            {
+              "question":"Quel est le synonyme de Colis?",
+              "choix":"livreur, paquet, lettre ou tiroir",
+              "reponse":"paquet"
+            },
+            {
+              "question":"Lequel de ces mots est du genre féminin ?",
+              "choix":"pétale, vison, geole ou chenet",
+              "reponse":"pétale"
+            }
+          ]
+        },
+        {
+          "nom":"Maths",
+          "image":"",
+          "quizz":
+          [
+            {
+              "question":"Combien font 7x5?",
+              "choix":"",
+              "reponse":"35"
+            },
+            {
+              "question":"Combien font 3x5?",
+              "choix":"",
+              "reponse":"15"
+            },
+            {
+              "question":" Combien font 100 - 72?",
+              "choix":"",
+              "reponse":"28"
+            },
+            {
+              "question":"Combien font 97 + 15?",
+              "choix":"",
+              "reponse":"112"
+            },
+            {
+              "question":"Combien font 16 / 4?",
+              "choix":"",
+              "reponse":"4"
+            }
+          ]
+        },
+        {
+          "nom":"Anglais",
+          "image":"",
+          "quizz":
+          [
+            {
+              "question":"Quel est l'intrus ?",
+              "choix":" Monday, Car, Tuesday, Sunday",
+              "reponse":"Car"
+            },
+            {
+              "question":"Comment dit-on ' bonjour ' en anglais ?",
+              "choix":"Hello, My name is Habib, Kikou ou Fish",
+              "reponse":"Hello"
+            },
+            {
+              "question":"' look ' veux dire:",
+              "choix":"Style, Regarde, Beau ou Ah bon",
+              "reponse":"Regarde"
+            },
+            {
+              "question":"Comment dit-on ' pomme ' en anglais ?",
+              "choix":"Cheese, Apple, Door ou pen",
+              "reponse":"Apple"
+            },
+            {
+              "question":"Comment dit-on 'main' en anglais?",
+              "choix":"Hand, Stomach, foot ou Toes",
+              "reponse":"Hand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom":"5eme",
+      "prenom":"Adams",
+      "motpasse":12345,
+      "matieres":
+      [
+        {
+          "nom":"Français",
+          "image":"",
+          "quizz":
+          [
+            {
+              "question":"Conjugue le verbe pouvoir au subjonctif présent :",
+              "choix":"J'aimerais tant qu'elle ... y arriver toute seule !",
+              "reponse":"puisse"
+            },
+            {
+              "question":"Accorde correctement l'adjectif médiéval dans la phrase.",
+              "choix":"Il existait déjà une forme de médecine dans les temps ... .",
+              "reponse":"médiévaux"
+            },
+            {
+              "question":"Conjugue le verbe savoir au passé simple de l'indicatif :",
+              "choix":"Nous ... tout de suite quel personnage il était.",
+              "reponse":"sûmes"
+            },
+            {
+              "question":"Accorde correctement dans la phrase suivante le(s) mot(s) - vert pâle-.",
+              "choix":"Les concombres sont ...",
+              "reponse":"vert pâle"
+            },
+            {
+              "question":"Conjugue le verbe Envier au présent de l'indicatif :",
+              "choix":"...-tu les touristes ?",
+              "reponse":"Envies"
+            }
+          ]
+        },
+        {
+          "nom":"Maths",
+          "image":"",
+          "quizz":[
+            {
+              "question":"Combien vaut A ?",
+              "choix":"A = 4 + 3 × 5 ",
+              "reponse":"19"
+            },
+            {
+              "question":"Combien vaut B ?",
+              "choix":"B = 5 × (7 - 3)",
+              "reponse":"20"
+            },
+            {
+              "question":" Dans cet immeuble, les ascenseurs fonctionnent à la vitesse de 8 m par seconde. ",
+              "choix":"Combien de temps faut-il pour monter 224 metres ?",
+              "reponse":"28"
+            },
+            {
+              "question":"Donne le resultat ",
+              "choix":"72 : 9 = ?",
+              "reponse":"8"
+            },
+            {
+              "question":"un terrain a une longueur de 10m et une largeur de 5m ? ",
+              "choix":"Calcule son périmetre",
+              "reponse":"30"
+            }
+          ]
+        },
+        {
+          "nom":"Anglais",
+          "image":"",
+          "quizz":
+          [
+            {
+              "question":"Choisis la bonne traduction : ",
+              "choix":"Depuis dix ans.",
+              "reponse":""
+            },
+            {
+              "question":"Complètes avec l'auxiliaire BE conjugué au présent:",
+              "choix":"She ... happy",
+              "reponse":"is"
+            },
+            {
+              "question":"Complètes avec l'article indéfini a / an:",
+              "choix":"I've just seen ... elephant",
+              "reponse":"an"
+            },
+            {
+              "question":"Utilises le bon adjectif possessif.",
+              "choix":"This car belongs to me. It's...car.",
+              "reponse":"my"
+            },
+            {
+              "question":"Complétez avec le bon pronom relatif (WHO, WHICH):",
+              "choix":"Do you know the girl...is sitting there?",
+              "reponse":"who"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
